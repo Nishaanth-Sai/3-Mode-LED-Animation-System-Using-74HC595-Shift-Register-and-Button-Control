@@ -82,3 +82,9 @@ Examples used in the code:
 
 
 Enjoy building and experimenting with shift registers!
+
+## Example
+
+https://github.com/user-attachments/assets/10fecd4a-1ddd-4a3c-84ce-d722f640c232
+
+
